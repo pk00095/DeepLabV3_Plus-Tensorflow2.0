@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/srihari-humbarwadi/https://githubcom/srihari-humbarwadi/DeepLabV3_Plus-Tensorflow20.svg)](http://hits.dwyl.io/srihari-humbarwadi/https://githubcom/srihari-humbarwadi/DeepLabV3_Plus-Tensorflow20)
+[![HitCount](http://hits.dwyl.com/pk00095/https://githubcom/pk00095/DeepLabV3_Plus-Tensorflow20git.svg)](http://hits.dwyl.com/pk00095/https://githubcom/pk00095/DeepLabV3_Plus-Tensorflow20git)
 
 
 ## Architecture
@@ -24,6 +24,6 @@ border="10" /></a>
 
 ## To Do
 - [x] Implement distributed training using tf.distribute.MirroredStrategy
-- [x] Implement data input pipeline using tf.data.Dataset 
+- [x] ~Implement data input pipeline using tf.data.Dataset ~
 - [x] Train on cityscapes
 - [ ] Implement modified Xception backbone as originally mentioned in the paper
